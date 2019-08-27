@@ -1,0 +1,13 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+a, li {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+}
+
+a:hover {
+    text-decoration-line: underline;
+}
